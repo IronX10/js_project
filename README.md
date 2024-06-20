@@ -1,3 +1,3 @@
 # js_project
 hello
-first js project calculator
+my first js project calculator
