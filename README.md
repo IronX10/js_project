@@ -1,3 +1,6 @@
 # js_project
-hello
+hello!
+<br>
 my first js project calculator
+<br>
+authur - dixansh gautam
